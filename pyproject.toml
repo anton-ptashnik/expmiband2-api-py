@@ -15,6 +15,11 @@ dependencies = [
 ]
 requires-python = ">=3.5"
 
+[project.optional-dependencies]
+test = [
+    "pytest >= 7.3.0"
+]
+
 [project.urls]
 Documentation = "https://github.com/anton-ptashnik/test-miband2-api-py"
 Source = "https://github.com/anton-ptashnik/test-miband2-api-py"
