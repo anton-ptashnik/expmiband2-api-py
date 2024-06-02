@@ -21,5 +21,6 @@ test = [
 ]
 
 [project.urls]
-Documentation = "https://github.com/anton-ptashnik/test-miband2-api-py"
-Source = "https://github.com/anton-ptashnik/test-miband2-api-py"
+Documentation = "https://github.com/anton-ptashnik/expmiband2-api-py"
+Source = "https://github.com/anton-ptashnik/expmiband2-api-py"
+Home = "https://github.com/anton-ptashnik/expmiband2-api-py"
